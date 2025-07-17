@@ -24,11 +24,6 @@ An interactive Tableau dashboard analyzing UK road accident statistics with dyna
 
 ---
 
-## 📷 Dashboard Preview
-
-![Road Accident Dashboard](./Dashboard.png)
-
----
 
 ## 🚀 How to Use
 
