@@ -3,7 +3,7 @@
 An interactive Tableau dashboard analyzing UK road accident statistics with dynamic filters and detailed visual breakdowns.
 
 ---
-![Dashboard Preview](./DASHBOARD.png)
+![Dashboard Preview](./Road.jpg)
 
 ---
 
